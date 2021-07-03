@@ -1,0 +1,3 @@
+[submodule "drogon"]
+	path = drogon
+	url = git://github.com/HeartLightDev/drogon.git
